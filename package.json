@@ -1,0 +1,24 @@
+{
+  "name": "2300031168nk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenKumar2102/2300031168nk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NaveenKumar2102/2300031168nk/issues"
+  },
+  "homepage": "https://github.com/NaveenKumar2102/2300031168nk#readme",
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
+  }
+}
